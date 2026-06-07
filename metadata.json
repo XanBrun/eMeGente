@@ -1,0 +1,6 @@
+{
+  "name": "Weiser Magic Portal",
+  "description": "Compañero secreto para magos. Controla trucos de Kindle, matrices forzadas, ruleta predictiva, adivinación de cartas y películas de Netflix vía BLE/Bluetooth simulado con SmartWatch ESP32S3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
